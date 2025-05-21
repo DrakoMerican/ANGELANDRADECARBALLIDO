@@ -1,0 +1,15 @@
+# Excluir dependencias
+node_modules/
+
+# Carpetas temporales
+*.log
+temp/
+tmp/
+.DS_Store
+Thumbs.db
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
