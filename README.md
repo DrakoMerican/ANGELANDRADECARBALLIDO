@@ -24,3 +24,14 @@ Página HTML simple que muestra un formulario con Bootstrap 5.
 - Se usó "Playwright" para las pruebas del servicio.
   - Instálalo mediante el comando "npm init playwright".
   - Ejecuta las pruebas mediante "npx playwright test". 
+
+## Enlaces:
+
+- Clonación:
+  - https://github.com/DrakoMerican/ANGELANDRADECARBALLIDO.git
+
+- Repositorio GitHub
+  - https://github.com/DrakoMerican/ANGELANDRADECARBALLIDO/tree/EXERCICIO-2
+
+- GitHub Pages
+  - https://drakomerican.github.io/ANGELANDRADECARBALLIDO/
