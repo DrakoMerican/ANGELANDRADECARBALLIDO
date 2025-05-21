@@ -1,0 +1,22 @@
+{
+  "name": "examenweb",
+  "version": "1.0.0",
+  "description": "Página HTML simple que muestra un formulario con Bootstrap 5.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrakoMerican/ANGELANDRADECARBALLIDO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrakoMerican/ANGELANDRADECARBALLIDO/issues"
+  },
+  "homepage": "https://github.com/DrakoMerican/ANGELANDRADECARBALLIDO#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21"
+  }
+}
