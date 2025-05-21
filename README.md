@@ -18,3 +18,9 @@ Página HTML simple que muestra un formulario con Bootstrap 5.
 3. Haz clic en **Enviar**.
 4. Si algún campo es inválido, se mostrará un mensaje de error.
 5. Si todos los campos son válidos, el formulario se enviará.
+
+## EXTRA EJER2:
+
+- Se usó "Playwright" para las pruebas del servicio.
+  - Instálalo mediante el comando "npm init playwright".
+  - Ejecuta las pruebas mediante "npx playwright test". 
